@@ -1,8 +1,7 @@
-#!/usr/bin/python3
 from brownie import SimpleCollectible, accounts, network, config
 from scripts.helpful_scripts import OPENSEA_FORMAT
 
-sample_token_uri="https://storage.googleapis.com/001regaliadecay/0"
+sample_token_uri="https://ipfs.io/ipfs/QmXo5vQ16hpavawuSSSb4WUWM7RwPwwaGk1Vj1jkVvCnPG"
 
 def main():
     dev = accounts.add(config["wallets"]["from_key"])
@@ -18,3 +17,4 @@ def main():
         )
     )
     print('Please give up to 20 minutes, and hit the "refresh metadata" button')
+
