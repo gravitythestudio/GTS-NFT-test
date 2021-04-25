@@ -1,0 +1,19 @@
+{
+  "name": "001 - Regalia Decay",
+  "description": "The first blockchain design by Gravity the Studio, one-of-a-kind and never rereleased. This item was minted with 10 wear redemptions, redeemable at any time by the current owner. A wear consists of this garment being 3D modeled to fit the 2D photo of the owner. Redeem or learn more at gravitythestud.io " ,
+  "image": "https://ipfs.io/ipfs/QmaMgcYHgYkGmLEeXG926FVkb9PAbcsdqDBCtZbkhn9ySo",
+  "external_link": "http://www.gravitythestud.io/redeemwears",
+  "attributes": [
+    {
+     "display_type": "number",
+	"trait_type": "Remaining Wear Redemptions",
+	"value": 10
+	"max_value": 10
+	},
+	{
+	"display_type": "date",
+	"trait_type": "Edition",
+	"value": "April, 2021",
+	}
+ ]
+}

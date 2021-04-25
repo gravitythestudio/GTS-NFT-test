@@ -1,0 +1,8 @@
+{
+  "description": "The Blockchain Collection", 
+  "external_link": "https:/gravitythestud.io", 
+  "image": "https://ipfs.io/ipfs/Qmf1sbmgnQkD2f4ibwGErsVCEa72uc9oBagbGj11CLDezXg", 
+  "name": "Gravity the Studio"
+  "seller_fee_basis_points": 200,
+  "fee_recipient": "0x79968020978a8eedD77B5ceBfAd02E1fE38749A7"
+}
